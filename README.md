@@ -1,3 +1,7 @@
+Primary: Nikki Benoit
+Secondaries: Stephen Jones; Jeffery Crones; Daniel Van Donselaar
+
+
 SSH Failure Logging System
 Allow text alert notification given a number of failed ssh connections.
 Installation
