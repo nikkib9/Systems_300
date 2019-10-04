@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 # 
-# Nikki, Daniel, Jeff, Carlton, Stephen, Jesus, Matthew 
+# Most functions done by Nikki Benoit
+# Worked on with Stephen Jones, Jeffery Crones
 #
 ####################################
 # Check log for ssh failures and text failures
